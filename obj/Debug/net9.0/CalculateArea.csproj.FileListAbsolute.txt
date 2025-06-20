@@ -1,0 +1,14 @@
+C:\Users\dalla\repos\CalculateArea\bin\Debug\net9.0\CalculateArea.exe
+C:\Users\dalla\repos\CalculateArea\bin\Debug\net9.0\CalculateArea.deps.json
+C:\Users\dalla\repos\CalculateArea\bin\Debug\net9.0\CalculateArea.runtimeconfig.json
+C:\Users\dalla\repos\CalculateArea\bin\Debug\net9.0\CalculateArea.dll
+C:\Users\dalla\repos\CalculateArea\bin\Debug\net9.0\CalculateArea.pdb
+C:\Users\dalla\repos\CalculateArea\obj\Debug\net9.0\CalculateArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalla\repos\CalculateArea\obj\Debug\net9.0\CalculateArea.AssemblyInfoInputs.cache
+C:\Users\dalla\repos\CalculateArea\obj\Debug\net9.0\CalculateArea.AssemblyInfo.cs
+C:\Users\dalla\repos\CalculateArea\obj\Debug\net9.0\CalculateArea.csproj.CoreCompileInputs.cache
+C:\Users\dalla\repos\CalculateArea\obj\Debug\net9.0\CalculateArea.dll
+C:\Users\dalla\repos\CalculateArea\obj\Debug\net9.0\refint\CalculateArea.dll
+C:\Users\dalla\repos\CalculateArea\obj\Debug\net9.0\CalculateArea.pdb
+C:\Users\dalla\repos\CalculateArea\obj\Debug\net9.0\CalculateArea.genruntimeconfig.cache
+C:\Users\dalla\repos\CalculateArea\obj\Debug\net9.0\ref\CalculateArea.dll
