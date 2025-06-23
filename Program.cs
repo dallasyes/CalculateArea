@@ -31,7 +31,7 @@ namespace CalculateArea
             // Square Area
             Console.WriteLine("Enter the side length of the square:");
             double side = Convert.ToDouble(Console.ReadLine());
-            double squareArea = FindSquareArea(length);
+            double squareArea = FindSquareArea(side);
             Console.WriteLine($"Area of the square: {squareArea}\n");
         }
         static double FindCircleArea(double radius)
